@@ -1,3 +1,7 @@
+Create a virtual environment with the command 
+python -m venv app_venv
+Activate the Virtual environment 
+Then run the following commands
 Run the command : 
 1.  pip install -r req.txt
 2.  python manage.py makemigrations 
